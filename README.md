@@ -86,7 +86,7 @@ and personalized concierge solutions.
 
 ### 🏭 ABCMET — Industrial Business Website
 
-Industrial company website project.
+**Website:** https://abcmet.ee
 
 **Project highlights:**
 - Modern industrial design
@@ -95,7 +95,7 @@ Industrial company website project.
 - Responsive interface
 - Digital business presence
 
-*Website project in progress.*
+[🌐 Visit ABCMET](https://abcmet.ee)
 
 ---
 
