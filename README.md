@@ -84,25 +84,6 @@ and personalized concierge solutions.
 
 ---
 
-### 🧬 BIOLABICA — Research Website
-
-**Website:** https://biolabica.com
-
-A research-focused product website featuring
-structured product information, multilingual
-content, and an online catalogue.
-
-**Project highlights:**
-- Product catalogue
-- Responsive web design
-- Multilingual architecture
-- Product information pages
-- Website optimization
-
-[🧬 Explore BIOLABICA](https://biolabica.com)
-
----
-
 ### 🏭 ABCMET — Industrial Business Website
 
 Industrial company website project.
